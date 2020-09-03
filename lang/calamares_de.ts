@@ -3524,12 +3524,13 @@ Ausgabe:
     <message>
       <location filename="../src/modules/tracking/TrackingPage.cpp" line="95"/>
       <source>Tracking helps %1 to see how often it is installed, what hardware it is installed on and which applications are used. To see what will be sent, please click the help icon next to each area.</source>
-      <translation type="unfinished"/>
+      <translation>Tracking hilft %1 festzustellen, wie oft es installiert wurde, welche Hardware und welche Anwendungen benutzt werden.
+Um zu sehen, welche Informationen gesendet werden, klicken Sie auf das Hilfe-Icon daneben. </translation>
     </message>
     <message>
       <location filename="../src/modules/tracking/TrackingPage.cpp" line="100"/>
       <source>By selecting this you will send information about your installation and hardware. This information will only be sent &lt;b&gt;once&lt;/b&gt; after the installation finishes.</source>
-      <translation type="unfinished"/>
+      <translation>Wenn Sie dies auswählen, werden Informationen über Ihre Installation und Hardware gesendet. Diese Informationen werden nur &lt;b&gt;einmal&lt;/b&gt; nach der Installation gesendet.</translation>
     </message>
     <message>
       <location filename="../src/modules/tracking/TrackingPage.cpp" line="103"/>
@@ -3798,13 +3799,15 @@ Liberating Software.</translation>
       <location filename="../src/modules/localeq/i18n.qml" line="55"/>
       <source>&lt;h1&gt;Languages&lt;/h1&gt; &lt;/br&gt;
                     The system locale setting affects the language and character set for some command line user interface elements. The current setting is &lt;strong&gt;%1&lt;/strong&gt;.</source>
-      <translation type="unfinished"/>
+      <translation>&lt;h1&gt;Sprachen&lt;/h1&gt; &lt;/br&gt;
+                    Das Regionalschema betrifft die Sprache und die Tastaturbelegung für einige Elemente der Kommandozeile. Derzeit eingestellt ist &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
       <location filename="../src/modules/localeq/i18n.qml" line="115"/>
       <source>&lt;h1&gt;Locales&lt;/h1&gt; &lt;/br&gt;
                     The system locale setting affects the numbers and dates format. The current setting is &lt;strong&gt;%1&lt;/strong&gt;.</source>
-      <translation type="unfinished"/>
+      <translation>&lt;h1&gt;Regionalschemata&lt;/h1&gt; &lt;/br&gt;
+                    Die Regionalschemata betreffen das Format der Zahlen und Daten. Derzeit eingestellt ist &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
       <location filename="../src/modules/localeq/i18n.qml" line="167"/>

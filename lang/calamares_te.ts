@@ -6,17 +6,18 @@
     <message>
       <location filename="../src/modules/partition/gui/BootInfoWidget.cpp" line="71"/>
       <source>The &lt;strong&gt;boot environment&lt;/strong&gt; of this system.&lt;br&gt;&lt;br&gt;Older x86 systems only support &lt;strong&gt;BIOS&lt;/strong&gt;.&lt;br&gt;Modern systems usually use &lt;strong&gt;EFI&lt;/strong&gt;, but may also show up as BIOS if started in compatibility mode.</source>
-      <translation type="unfinished"/>
+      <translation>ఈ సిస్టమ్ యొక్క బూట్ ఎన్విరాన్మెంట్. పాత x86 సిస్టమ్ BIOS కి మాత్రమే మద్దతు ఇస్తుంది. ఆధునిక వ్యవస్థలు సాధారణంగా EFI ని ఉపయోగిస్తాయి, కాని compatibility మోడ్‌లో ప్రారంభిస్తే BIOS గా కూడా కనిపిస్తాయి.</translation>
     </message>
     <message>
       <location filename="../src/modules/partition/gui/BootInfoWidget.cpp" line="81"/>
       <source>This system was started with an &lt;strong&gt;EFI&lt;/strong&gt; boot environment.&lt;br&gt;&lt;br&gt;To configure startup from an EFI environment, this installer must deploy a boot loader application, like &lt;strong&gt;GRUB&lt;/strong&gt; or &lt;strong&gt;systemd-boot&lt;/strong&gt; on an &lt;strong&gt;EFI System Partition&lt;/strong&gt;. This is automatic, unless you choose manual partitioning, in which case you must choose it or create it on your own.</source>
-      <translation type="unfinished"/>
+      <translation>ఈ సిస్టమ్ EFI బూట్ ఎన్విరాన్మెంట్‌తో ప్రారంభించబడింది. EFI ఎన్విరాన్మెంట్ నుండి స్టార్టప్‌ను కాన్ఫిగర్ చేయడానికి, ఈ ఇన్‌స్టాలర్ తప్పనిసరిగా EFI సిస్టమ్ విభజనలో GRUB లేదా systemd-boot వంటి బూట్ లోడర్ అప్లికేషన్‌ను అమర్చాలి. ఇది
+automatic ఉంటుంది, మీరు మాన్యువల్ విభజనను ఎంచుకుంటే తప్ప, ఈ సందర్భంలో మీరు దీన్ని ఎంచుకోవాలి లేదా మీ స్వంతంగా సృష్టించాలి.</translation>
     </message>
     <message>
       <location filename="../src/modules/partition/gui/BootInfoWidget.cpp" line="93"/>
       <source>This system was started with a &lt;strong&gt;BIOS&lt;/strong&gt; boot environment.&lt;br&gt;&lt;br&gt;To configure startup from a BIOS environment, this installer must install a boot loader, like &lt;strong&gt;GRUB&lt;/strong&gt;, either at the beginning of a partition or on the &lt;strong&gt;Master Boot Record&lt;/strong&gt; near the beginning of the partition table (preferred). This is automatic, unless you choose manual partitioning, in which case you must set it up on your own.</source>
-      <translation type="unfinished"/>
+      <translation>ఈ సిస్టమ్ BIOS బూట్ environment తో ప్రారంభించబడింది. BIOS environment  నుండి ప్రారంభాన్ని కాన్ఫిగర్ చేయడానికి, ఈ ఇన్స్టాలర్ GRUB వంటి బూట్ లోడర్‌ను ఒక విభజన ప్రారంభంలో లేదా విభజన పట్టిక ప్రారంభంలో మాస్టర్ బూట్ రికార్డ్‌లో ఇన్‌స్టాల్ చేయాలి ( ప్రాధాన్యత ఇవ్వబడింది). ఇది స్వయంచాలకంగా ఉంటుంది, మీరు మాన్యువల్ విభజనను ఎంచుకుంటే తప్ప, ఈ సందర్భంలో మీరు దీన్ని మీ స్వంతంగా సెటప్ చేయాలి</translation>
     </message>
   </context>
   <context>
@@ -24,27 +25,27 @@
     <message>
       <location filename="../src/modules/partition/core/BootLoaderModel.cpp" line="68"/>
       <source>Master Boot Record of %1</source>
-      <translation type="unfinished"/>
+      <translation>% 1 యొక్క మాస్టర్ బూట్ రికార్డ్</translation>
     </message>
     <message>
       <location filename="../src/modules/partition/core/BootLoaderModel.cpp" line="102"/>
       <source>Boot Partition</source>
-      <translation type="unfinished"/>
+      <translation>బూట్ పార్టిషన్</translation>
     </message>
     <message>
       <location filename="../src/modules/partition/core/BootLoaderModel.cpp" line="109"/>
       <source>System Partition</source>
-      <translation type="unfinished"/>
+      <translation>సిస్టమ్ పార్టిషన్</translation>
     </message>
     <message>
       <location filename="../src/modules/partition/core/BootLoaderModel.cpp" line="139"/>
       <source>Do not install a boot loader</source>
-      <translation type="unfinished"/>
+      <translation>బూట్ లోడర్‌ను ఇన్‌స్టాల్ చేయవద్దు</translation>
     </message>
     <message>
       <location filename="../src/modules/partition/core/BootLoaderModel.cpp" line="157"/>
       <source>%1 (%2)</source>
-      <translation type="unfinished"/>
+      <translation>%1 (%2)</translation>
     </message>
   </context>
   <context>
@@ -52,7 +53,7 @@
     <message>
       <location filename="../src/libcalamaresui/viewpages/BlankViewStep.cpp" line="70"/>
       <source>Blank Page</source>
-      <translation type="unfinished"/>
+      <translation>ఖాళీ పేజీ</translation>
     </message>
   </context>
   <context>
@@ -65,22 +66,23 @@
     <message>
       <location filename="../src/calamares/DebugWindow.ui" line="24"/>
       <source>GlobalStorage</source>
-      <translation type="unfinished"/>
+      <translation>గ్లోబల్ స్టోరేజ్
+ </translation>
     </message>
     <message>
       <location filename="../src/calamares/DebugWindow.ui" line="34"/>
       <source>JobQueue</source>
-      <translation type="unfinished"/>
+      <translation>జాబ్ క్యూ</translation>
     </message>
     <message>
       <location filename="../src/calamares/DebugWindow.ui" line="44"/>
       <source>Modules</source>
-      <translation type="unfinished"/>
+      <translation>మోడ్యూల్స్</translation>
     </message>
     <message>
       <location filename="../src/calamares/DebugWindow.ui" line="57"/>
       <source>Type:</source>
-      <translation type="unfinished"/>
+      <translation>టైప్:</translation>
     </message>
     <message>
       <location filename="../src/calamares/DebugWindow.ui" line="64"/>
@@ -91,27 +93,27 @@
     <message>
       <location filename="../src/calamares/DebugWindow.ui" line="71"/>
       <source>Interface:</source>
-      <translation type="unfinished"/>
+      <translation>ఇంటర్ఫేస్</translation>
     </message>
     <message>
       <location filename="../src/calamares/DebugWindow.ui" line="93"/>
       <source>Tools</source>
-      <translation type="unfinished"/>
+      <translation>టూల్స్</translation>
     </message>
     <message>
       <location filename="../src/calamares/DebugWindow.ui" line="106"/>
       <source>Reload Stylesheet</source>
-      <translation type="unfinished"/>
+      <translation>రీలోడ్ స్టైల్షీట్</translation>
     </message>
     <message>
       <location filename="../src/calamares/DebugWindow.ui" line="113"/>
       <source>Widget Tree</source>
-      <translation type="unfinished"/>
+      <translation>విడ్జెట్ ట్రీ</translation>
     </message>
     <message>
       <location filename="../src/calamares/DebugWindow.cpp" line="231"/>
       <source>Debug information</source>
-      <translation type="unfinished"/>
+      <translation>డీబగ్ సమాచారం</translation>
     </message>
   </context>
   <context>
@@ -119,12 +121,12 @@
     <message>
       <location filename="../src/libcalamaresui/viewpages/ExecutionViewStep.cpp" line="94"/>
       <source>Set up</source>
-      <translation type="unfinished"/>
+      <translation>సెట్ అప్</translation>
     </message>
     <message>
       <location filename="../src/libcalamaresui/viewpages/ExecutionViewStep.cpp" line="94"/>
       <source>Install</source>
-      <translation type="unfinished"/>
+      <translation>ఇన్‌స్టాల్</translation>
     </message>
   </context>
   <context>
@@ -132,7 +134,7 @@
     <message>
       <location filename="../src/libcalamares/JobExample.cpp" line="42"/>
       <source>Job failed (%1)</source>
-      <translation type="unfinished"/>
+      <translation>జాబ్ విఫలమైంది (% 1)</translation>
     </message>
     <message>
       <location filename="../src/libcalamares/JobExample.cpp" line="43"/>
@@ -2774,7 +2776,7 @@ Output:
     <message>
       <location filename="../src/libcalamares/locale/Label.cpp" line="41"/>
       <source>%1 (%2)</source>
-      <translation type="unfinished"/>
+      <translation>%1 (%2)</translation>
     </message>
     <message>
       <location filename="../src/libcalamares/partition/FileSystem.cpp" line="40"/>

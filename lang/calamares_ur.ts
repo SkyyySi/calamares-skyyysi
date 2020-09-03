@@ -3702,27 +3702,27 @@ Output:
     <message>
       <location filename="../src/modules/welcome/WelcomePage.cpp" line="231"/>
       <source>&lt;h1&gt;Welcome to the Calamares installer for %1.&lt;/h1&gt;</source>
-      <translation type="unfinished"/>
+      <translation>٪ 1 Calamares کے انسٹالر میں خوش آمدید</translation>
     </message>
     <message>
       <location filename="../src/modules/welcome/WelcomePage.cpp" line="232"/>
       <source>&lt;h1&gt;Welcome to the %1 installer.&lt;/h1&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;h1&gt;٪ 1 انسٹالر میں خوش آمدید۔&lt;/h1&gt;</translation>
     </message>
     <message>
       <location filename="../src/modules/welcome/WelcomePage.cpp" line="237"/>
       <source>%1 support</source>
-      <translation type="unfinished"/>
+      <translation>٪ 1 سپورٹ</translation>
     </message>
     <message>
       <location filename="../src/modules/welcome/WelcomePage.cpp" line="244"/>
       <source>About %1 setup</source>
-      <translation type="unfinished"/>
+      <translation>تقریبا٪ 1 سیٹ اپ</translation>
     </message>
     <message>
       <location filename="../src/modules/welcome/WelcomePage.cpp" line="244"/>
       <source>About %1 installer</source>
-      <translation type="unfinished"/>
+      <translation>لگ بھگ٪ 1 انسٹال</translation>
     </message>
     <message>
       <location filename="../src/modules/welcome/WelcomePage.cpp" line="247"/>
@@ -3735,7 +3735,7 @@ Output:
     <message>
       <location filename="../src/modules/welcomeq/WelcomeQmlViewStep.cpp" line="50"/>
       <source>Welcome</source>
-      <translation type="unfinished"/>
+      <translation>خوش آمدید</translation>
     </message>
   </context>
   <context>
@@ -3743,7 +3743,7 @@ Output:
     <message>
       <location filename="../src/modules/welcome/WelcomeViewStep.cpp" line="57"/>
       <source>Welcome</source>
-      <translation type="unfinished"/>
+      <translation>خوش آمدید</translation>
     </message>
   </context>
   <context>
@@ -3767,7 +3767,7 @@ Output:
     <message>
       <location filename="../src/modules/welcomeq/about.qml" line="105"/>
       <source>Back</source>
-      <translation type="unfinished"/>
+      <translation>واپس</translation>
     </message>
   </context>
   <context>
@@ -3787,7 +3787,7 @@ Output:
     <message>
       <location filename="../src/modules/localeq/i18n.qml" line="167"/>
       <source>Back</source>
-      <translation type="unfinished"/>
+      <translation>واپس</translation>
     </message>
   </context>
   <context>
@@ -3795,44 +3795,44 @@ Output:
     <message>
       <location filename="../src/modules/keyboardq/keyboardq.qml" line="20"/>
       <source>Keyboard Model</source>
-      <translation type="unfinished"/>
+      <translation>کی بورڈ کے نمونے</translation>
     </message>
     <message>
       <location filename="../src/modules/keyboardq/keyboardq.qml" line="21"/>
       <source>Pick your preferred keyboard model or use the default one based on the detected hardware</source>
-      <translation type="unfinished"/>
+      <translation>اپنے مطلوبہ کی بورڈ ماڈل کو منتخب کریں یا پتہ لگائے گئے ہارڈ ویئر کی بنیاد پر پہلے سے طے شدہ نمونہ استعمال کریں</translation>
     </message>
     <message>
       <location filename="../src/modules/keyboardq/keyboardq.qml" line="56"/>
       <source>Refresh</source>
-      <translation type="unfinished"/>
+      <translation>تازه کریں</translation>
     </message>
     <message>
       <location filename="../src/modules/keyboardq/keyboardq.qml" line="62"/>
       <location filename="../src/modules/keyboardq/keyboardq.qml" line="169"/>
       <source>Layouts</source>
-      <translation type="unfinished"/>
+      <translation> لے آؤٹ</translation>
     </message>
     <message>
       <location filename="../src/modules/keyboardq/keyboardq.qml" line="75"/>
       <location filename="../src/modules/keyboardq/keyboardq.qml" line="134"/>
       <source>Keyboard Layout</source>
-      <translation type="unfinished"/>
+      <translation>کی بورڈ لے آؤٹ</translation>
     </message>
     <message>
       <location filename="../src/modules/keyboardq/keyboardq.qml" line="113"/>
       <source>Models</source>
-      <translation type="unfinished"/>
+      <translation>نمونے</translation>
     </message>
     <message>
       <location filename="../src/modules/keyboardq/keyboardq.qml" line="121"/>
       <source>Variants</source>
-      <translation type="unfinished"/>
+      <translation>متغیرات</translation>
     </message>
     <message>
       <location filename="../src/modules/keyboardq/keyboardq.qml" line="180"/>
       <source>Test your keyboard</source>
-      <translation type="unfinished"/>
+      <translation>اپنے کی بورڈ کی جانچ کریں</translation>
     </message>
   </context>
   <context>
@@ -3840,7 +3840,7 @@ Output:
     <message>
       <location filename="../src/modules/localeq/localeq.qml" line="90"/>
       <source>Change</source>
-      <translation type="unfinished"/>
+      <translation>تبدیلی</translation>
     </message>
   </context>
   <context>
@@ -3882,7 +3882,7 @@ Output:
     <message>
       <location filename="../src/modules/welcomeq/release_notes.qml" line="85"/>
       <source>Back</source>
-      <translation type="unfinished"/>
+      <translation>واپس</translation>
     </message>
   </context>
   <context>
@@ -3891,32 +3891,33 @@ Output:
       <location filename="../src/modules/welcomeq/welcomeq.qml" line="44"/>
       <source>&lt;h3&gt;Welcome to the %1 &lt;quote&gt;%2&lt;/quote&gt; installer&lt;/h3&gt;
             &lt;p&gt;This program will ask you some questions and set up %1 on your computer.&lt;/p&gt;</source>
-      <translation type="unfinished"/>
+      <translation>&lt;h3&gt;٪ 1 میں خوش آمدید&lt;quote&gt;2٪&lt;/quote&gt;انسٹالر&lt;/h3&gt;
+&lt;p&gt;یہ پروگرام آپ سے کچھ سوالات پوچھے گا اور آپ کے کمپیوٹر پر٪ 1 مرتب کرے گا۔&lt;/p&gt;</translation>
     </message>
     <message>
       <location filename="../src/modules/welcomeq/welcomeq.qml" line="75"/>
       <source>About</source>
-      <translation type="unfinished"/>
+      <translation>متعلق</translation>
     </message>
     <message>
       <location filename="../src/modules/welcomeq/welcomeq.qml" line="89"/>
       <source>Support</source>
-      <translation type="unfinished"/>
+      <translation>حمائیت</translation>
     </message>
     <message>
       <location filename="../src/modules/welcomeq/welcomeq.qml" line="100"/>
       <source>Known issues</source>
-      <translation type="unfinished"/>
+      <translation>معلوم مسائل</translation>
     </message>
     <message>
       <location filename="../src/modules/welcomeq/welcomeq.qml" line="111"/>
       <source>Release notes</source>
-      <translation type="unfinished"/>
+      <translation>جاری کردہ نوٹس</translation>
     </message>
     <message>
       <location filename="../src/modules/welcomeq/welcomeq.qml" line="123"/>
       <source>Donate</source>
-      <translation type="unfinished"/>
+      <translation>عطیہ</translation>
     </message>
   </context>
 </TS>
